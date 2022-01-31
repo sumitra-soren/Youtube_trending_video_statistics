@@ -1,4 +1,4 @@
-# Youtube_trending_video_statistics
+# Youtube_trending_videos_statistics
 
 This project was aimed at analyzing the daily YouTube trending videos data sets that are available here:
 
