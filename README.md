@@ -1,6 +1,6 @@
 # Youtube_statistics
 
-This project is aimed at analyzing the daily YouTube trending videos data sets that are available here:
+This project is aimed to analyze the daily YouTube trending videos data sets that are available here:
 
 https://www.kaggle.com/datasnaek/youtube-new
 
